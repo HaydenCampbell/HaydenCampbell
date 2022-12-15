@@ -5,7 +5,7 @@ I've been developing mobile apps for a number of years, and I'm always looking t
 
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Kotlin Multiplatform and Flutter
-- 📫 How to reach me: **HaydoCampbell@gmail.com**
+- 📫 How to reach me: **haydencampbell@live.com.au**
 
 ---
 
@@ -21,5 +21,5 @@ Thanks for visiting!
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/HaydenCampbell/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydocampbell/)
-[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:haydocampbell@gmail.com)
+[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:haydencampbell@live.com.au)
 !["](https://komarev.com/ghpvc/?username=HaydenCampbell&label=Profile%20views&color=0e75b6&style=flat)
